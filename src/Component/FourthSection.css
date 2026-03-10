@@ -1,0 +1,30 @@
+.hero1{
+display: flex;
+justify-content:center ;
+margin-top: 5rem;
+
+}
+
+.hero-3{
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+}
+.card-image{
+    width: 30rem;
+    height: 27rem;
+
+}
+.text5{
+    white-space: pre-line;
+}
+.text6{
+     white-space: pre-line;   
+}
+.list7{
+margin-top: 2rem;
+}
+.list8{
+    display: flex;
+    flex-direction: column;
+}

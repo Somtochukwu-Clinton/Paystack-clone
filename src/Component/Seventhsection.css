@@ -1,0 +1,31 @@
+.pic1{
+    width: 100px;
+    height: auto;
+    /* margin: 0 1rem;
+   vertical-align: middle;
+    display: flex;  
+    flex-direction: row; */
+   
+    
+  
+   
+   
+
+}
+
+
+.crazy{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.display{
+ margin-top: 2rem;
+}
+.display1{
+margin-top: 3rem;
+}
+.display2{
+    margin-top: 3rem;
+}

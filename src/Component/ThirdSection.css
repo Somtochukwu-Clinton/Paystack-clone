@@ -1,0 +1,65 @@
+.hero-promo{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 7rem;
+}
+
+
+.maintext{
+    white-space: pre-line;
+   
+    
+}
+
+.othertext{
+    white-space: pre-line;
+    margin-top: 2rem;
+}
+.first-li{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+    
+} 
+.all-list{
+    display: flex;
+    gap: 20px;
+}
+.gif-image{
+width: 30rem;
+height: 40rem;
+}
+
+
+.sencond-text{
+    white-space: pre-line;
+    margin-top: 2rem;
+}
+.third-text{
+    white-space: pre-line;
+    margin-top: 2rem;
+}
+
+.checkmark{
+    color: white;
+    font-weight: bold;
+    background-color: rgb(158, 233, 84);
+}
+
+
+.lastTittle{
+    color: rgb(158, 233, 84);
+    margin-top: 1rem;
+}
+.greater{
+    color: white;
+    background-color:  rgb(158, 233, 84);
+    width: 26px;
+    height: 25px;
+    border: none;
+    border-radius: 19px;
+
+
+    
+}
+

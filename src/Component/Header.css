@@ -1,0 +1,49 @@
+.container1{
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+   
+    
+    
+}
+.container2{
+    display: flex;
+    gap: 10rem;
+    
+}
+
+.logo{
+    width: 120px;
+}
+.Img2{
+    width: 20px;
+    height: 15px;
+}
+
+.list{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+ul{
+display: flex;
+list-style: none;
+gap: 2rem;
+}
+
+.list2{
+display: flex;
+align-items: center;
+gap: 2rem;
+}
+.nav2{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+.active{
+    font-weight: bold;
+}
