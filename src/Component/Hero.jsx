@@ -16,7 +16,7 @@ const Hero = () => {
     <Button className="btn2" text="Create a free account"/>
     <h4 className='text3'>or Contact Sales</h4>
      </nav>
-      <div className='every-container'>
+      
       <p>Trusted by over 200,000 businesses</p>
       <main className='all-container'>
         <div className='pics-container'>
@@ -27,10 +27,9 @@ const Hero = () => {
         </div>
 
         <div className='last-div'>
-          <p>Watch MTN Chief Transformation officer,Olubayo <br/>Adekanmbi,discuss working with Paystack</p>
+          <p>Watch MTN Chief Transformation officer,<br/>Olubayo Adekanmbi,discuss working with Paystack</p>
         </div>
       </main>
-      </div>
       
 
       </article>

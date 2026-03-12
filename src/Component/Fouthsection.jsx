@@ -11,7 +11,7 @@ function HeroP(props) {
         <p className='text6'>{props.description}</p>
         <nav className='list7'>
             <ul className="list8">
-             {props.features.map((feature, index) => (
+             {props.features?.map((feature, index) => (
             <li key={index} ><span  className='checkmark'>&#10003;</span>{feature}</li>
           ))}
           </ul>

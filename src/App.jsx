@@ -8,6 +8,7 @@ import FifthSection from "./Component/FifthSection.jsx"
 import Sixthsection from "./Component/Sixthsection.jsx"
 import Seventhsection from "./Component/Seventhsection.jsx"
 import Lasthero from "./Component/Lasthero.jsx"
+import Footer from "./Component/Footer.jsx"
 
 function App() {
 
@@ -23,6 +24,7 @@ function App() {
     <Sixthsection/>
     <Seventhsection/>
     <Lasthero/>
+  <Footer/>
    </>
    )
   }

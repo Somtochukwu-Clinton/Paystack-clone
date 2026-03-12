@@ -158,8 +158,8 @@ export const pictureData ={
 
 export const lastData = {
   title3:"Paystack is highly technical and fanatically customer oriented. We’re excited to back such people in one of the world’s fastest-growing regions.",
-  title4:"Paystack for\nEntrepreneurs",
-  title5:"Paystack for\nLarge Organizations",
+  title4:"Our investment in Paystack aligns with the kind of investments we look for - those that will help extend our reach into the global commerce ecosystem",
+  title5:"As YC's first Nigerian startup Paystack leads the charge of great companies coming out of Africa, powering modern payments for an entire continent",
 
   
   description3:" We help global brands accept payments\nfrom across Africa",
@@ -169,7 +169,10 @@ export const lastData = {
 
   image6:"/src/assets/stripe.svg",
   image7:"/src/assets/patrick-collison-headshot.jpg",
-  image8:"/src/assets/pic3.svg",
+  image8:"/src/assets/visamain.png",
+  image9:"/src/assets/visa.jpeg",
+  image10:"/src/assets/ycombinator-logo.png",
+  image11:"/src/assets/michael-siebel-headshot.jpeg",
   
   secondTittle1:[
        "Learn More"

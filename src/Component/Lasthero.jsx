@@ -11,6 +11,8 @@ function Lasthero(props) {
         <h1 className="trust">Backed by strong global<br/> partners</h1>
         <p className="thousand">Paystack is backed by notable investors as well as some of the best<br/> payments companies on the planet.</p>
       </section>
+
+     
      <main className="getto">
       <div className="container">
         <div className="first-container">
@@ -22,15 +24,47 @@ function Lasthero(props) {
             <p className="learn">{props.secondTittle}</p>
              <img src={props.image7} alt="Promo" className='littley'/>
         </div>
+</div>
+
+
+  <div className="container">
+        <div className="first-container">
+            <nav>
+            <img src={props.image8} alt="Promo" className='little'/>
+            </nav>
+            <p className="globall">{props.title4}</p>
+            <p className="accept">{props.description}</p>
+            <p className="learn">{props.secondTittle}</p>
+             <img src={props.image9} alt="Promo" className='littley'/>
+        </div>
+
+      </div>
+
+
+
+       <div className="container">
+        <div className="first-container">
+            <nav>
+            <img src={props.image10} alt="Promo" className='littlli'/>
+            </nav>
+            <p className="globall">{props.title3}</p>
+            <p className="accept">{props.description}</p>
+            <p className="learn">{props.secondTittle}</p>
+             <img src={props.image11} alt="Promo" className='littlei'/>
+        </div>
 
       </div>
  </main>
-      </div>
+ </div>
+         </>
+     );
+     };
      
-      </>
-  )
-}
 
+
+
+
+   
 export default function (){
       return <Lasthero {...lastData} />;
     }
