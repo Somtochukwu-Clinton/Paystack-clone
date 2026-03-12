@@ -1,0 +1,32 @@
+.footer-cont2{
+display: flex;
+}
+.p1{
+    font-size: 40px;
+    font-weight: bold;
+}
+.p2{
+font-size: 27px;
+}
+
+.sect1{
+margin-top: 5rem;
+}
+
+.ul1{
+    display: flex;
+    list-style: none;
+    flex-direction: column;
+    font-size: 17px;
+}
+
+.sect3{
+    display: flex;
+    justify-content: space-around;
+  
+    margin-top: 3rem;
+}
+
+.li1{
+font-weight: bold;
+}

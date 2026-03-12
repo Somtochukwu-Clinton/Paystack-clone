@@ -1,9 +1,8 @@
 
 import "./Header.css"
-import { dataType, secondData,} from "./datajson";
+import { dataType, secondData } from "./datajson";
 import Button from "./Button";
 import "./Button.css"
-
 
 
 const Header = () => {
@@ -14,7 +13,7 @@ const Header = () => {
               <img src="/src/assets/Logo.svg" alt="Logo" className="logo"/>
                <ul>
                  {dataType.map((list,)=>(
-                  <li key={list.id} className={list.id ? "active": null}>{list.name}</li>
+                  <li key={list.id} className={list.id ===1 ? "active": null}>{list.name}</li>
                    ))}
                 </ul>
              </nav>
